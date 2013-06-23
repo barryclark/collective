@@ -1,4 +1,3 @@
-Collective
-==========
+## Welcome to Collective!
 
-Welcome to Collective. We are a group of NYC based hackers that collaborate on startup ideas and development.
+We are a group of NYC based hackers that collaborate on startup ideas and development.
