@@ -1,11 +1,10 @@
-
 # Resources
 
 Recommended books and links. 
 
 ## Books
 
-* [The Startup Owner's Manual - Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302/ref=sr_1_1?s=books&ie=UTF8&qid=1372460263&sr=1-1_
+* [The Startup Owner's Manual - Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302/)
 
 ## Ideation
 
