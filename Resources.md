@@ -12,7 +12,16 @@ Recommended books and links.
 * [Why you need to take 50 coffee meetings — Mark Suster](http://www.bothsidesofthetable.com/2011/08/15/why-you-need-to-take-50-coffee-meetings/)
 
 ## Customer Development
+* [Intercom.io - "Intercom has replaced helpdesk, email marketing, customer relationship management, and marketing automation tools for thousands of web businesses with one, simple product."](https://www.intercom.io/)
 
+## Design / Dev Inspiration
+* [Abduzeedo is a collection of visual inspiration and useful tutorials](http://abduzeedo.com/)
+* [Smashing Magazine is a great resource for dev, design, and tutorials for various fields.](http://www.smashingmagazine.com/)
+
+## Templates, Plugins, Tools, Icon Packs, Graphic Purchases
+* [Theme Forest](http://themeforest.net/)
+* [Graphic River](http://graphicriver.net/)
+* [Code Canyon](http://codecanyon.net/)
 
 ## Marketing
 
