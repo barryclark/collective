@@ -8,7 +8,7 @@ First meetup. Hosted at DoSomething.org.
 * [Barry Clark](https://twitter.com/baznyc)
 * [Dave Furnes](https://twitter.com/dfurnes)
 * [Dennis Cahillane](https://twitter.com/LinuxFan2718)
-* Dennis's lawyer buddy
+* Eric
 * [Desmond Morris](https://twitter.com/desmondmorris)
 * [Wes Lorenzini](https://twitter.com/wes321)
 
