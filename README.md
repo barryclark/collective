@@ -6,8 +6,8 @@ We're an invite only group of NYC based hackers that meet up once per month to d
 
 I've attended many meetups filled with business people pitching me their startup ideas: "I have my idea all figured out, I just need an engineer to build it!". The goal of this group is to get engineers together to share knowledge, ideate and collaborate on our own startup ideas, without the business pitches.
 
-#### Next Meetup - Wednesday August 21st
+#### Next Meetup - September TBA
 
-[Lean Coffee](http://www.slideshare.net/SteveRogalsky/a-guide-to-lean-coffee) meetup at [DoSomething.org HQ in Flatiron](https://www.google.com/maps/preview#!q=dosomething.org) on August 21st at 6:30pm.
+[Lean Coffee](http://www.slideshare.net/SteveRogalsky/a-guide-to-lean-coffee) meetup at [DoSomething.org HQ in Flatiron](https://www.google.com/maps/preview#!q=dosomething.org) in September TBA.
 
 Barry
