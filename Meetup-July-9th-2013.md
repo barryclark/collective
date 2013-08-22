@@ -1,4 +1,3 @@
-
 # July 9th, 2013
 
 First meetup. Hosted at DoSomething.org.
@@ -8,7 +7,7 @@ First meetup. Hosted at DoSomething.org.
 * [Barry Clark](https://twitter.com/baznyc)
 * [Dave Furnes](https://twitter.com/dfurnes)
 * [Dennis Cahillane](https://twitter.com/LinuxFan2718)
-* Eric
+* [Eric Bitzegaio](https://twitter.com/ebitz)
 * [Desmond Morris](https://twitter.com/desmondmorris)
 * [Wes Lorenzini](https://twitter.com/wes321)
 
