@@ -12,10 +12,10 @@
 
 ### Show and Tell iOS Apps
 
-Loren - PoP Gala
-Barry - Meditation Timer
-Dave - DND Dice Roll
-Wes - Now We Meet / After Flick
+- Loren - PoP Gala
+- Barry - Meditation Timer
+- Dave - DND Dice Roll
+- Wes - Now We Meet / After Flick
 
 ### Best Learning iOS Resources
 
